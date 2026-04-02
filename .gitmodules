@@ -1,4 +1,4 @@
 [submodule "site-Caltech"]
 	path = site-Caltech
-	url = ./site-Caltech
+	url = https://github.com/study-abide-test2a/study-abide-tmp1-site-Caltech.git
 	datalad-id = 4c907fa5-b3ef-48f0-b7da-7e283099b3b3
